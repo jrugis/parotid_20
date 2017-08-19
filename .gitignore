@@ -1,0 +1,10 @@
+Library/
+Packages/
+AppPackages/
+build/
+Debug/
+Il2CppOutputProject/
+.vs/
+
+*.csproj
+*.sln
