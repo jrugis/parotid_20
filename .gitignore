@@ -1,7 +1,12 @@
-Library/
 Packages/
 AppPackages/
 build/
 Debug/
 Il2CppOutputProject/
 .vs/
+GridBrush/
+metadata/
+PlayerDataCache/
+ScriptAssemblies/
+ShaderCache/
+UnityAssemblies/
