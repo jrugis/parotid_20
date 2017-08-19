@@ -5,6 +5,3 @@ build/
 Debug/
 Il2CppOutputProject/
 .vs/
-
-*.csproj
-*.sln
