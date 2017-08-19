@@ -3,8 +3,8 @@
 <type fullname="move" preserve="all"/>
 <type fullname="resize" preserve="all"/>
 <type fullname="rotate" preserve="all"/>
-<type fullname="TitleText" preserve="all"/>
-<type fullname="toggle" preserve="all"/>
+<type fullname="toggle_rotate" preserve="all"/>
+<type fullname="toggle_vis" preserve="all"/>
 </assembly>
 <assembly fullname="UnityEngine.UI">
 <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all"/>

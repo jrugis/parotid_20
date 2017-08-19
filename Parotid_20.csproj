@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E1A71720-A2DE-2EDF-620D-7E54042AD4C4}</ProjectGuid>
+    <ProjectGuid>{8A14A593-D71A-492D-12E7-0F207F763626}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -222,8 +222,8 @@
     <Compile Include="Assets\Scripts\move.cs" />
     <Compile Include="Assets\Scripts\resize.cs" />
     <Compile Include="Assets\Scripts\rotate.cs" />
-    <Compile Include="Assets\Scripts\TitleText.cs" />
-    <Compile Include="Assets\Scripts\toggle.cs" />
+    <Compile Include="Assets\Scripts\toggle_rotate.cs" />
+    <Compile Include="Assets\Scripts\toggle_vis.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

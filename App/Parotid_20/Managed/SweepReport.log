@@ -11,7 +11,7 @@ Summary:
     Generic Abstract Classes = 3
     Attributes = 178
   Total Field Removals = 796
-  Total Method Removals = 12335
+  Total Method Removals = 12336
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mono.Security
@@ -10718,7 +10718,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 48
   Total Field Removals = 32
-  Total Method Removals = 2450
+  Total Method Removals = 2451
   References Removed = 0
 ---------------------------------------------------
     AOT.MonoPInvokeCallbackAttribute
@@ -11622,6 +11622,7 @@ Summary:
         BroadcastMessage(System.String,UnityEngine.SendMessageOptions)
         CompareTag(System.String)
         CreatePrimitive(UnityEngine.PrimitiveType)
+        Find(System.String)
         FindGameObjectsWithTag(System.String)
         FindGameObjectWithTag(System.String)
         FindWithTag(System.String)
