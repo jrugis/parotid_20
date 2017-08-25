@@ -219,6 +219,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\all_vis_on.cs" />
     <Compile Include="Assets\Scripts\move.cs" />
     <Compile Include="Assets\Scripts\resize.cs" />
     <Compile Include="Assets\Scripts\rotate.cs" />
