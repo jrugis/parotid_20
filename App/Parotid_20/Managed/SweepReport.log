@@ -11,7 +11,7 @@ Summary:
     Generic Abstract Classes = 3
     Attributes = 178
   Total Field Removals = 796
-  Total Method Removals = 12336
+  Total Method Removals = 12333
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mono.Security
@@ -10718,7 +10718,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 48
   Total Field Removals = 32
-  Total Method Removals = 2451
+  Total Method Removals = 2448
   References Removed = 0
 ---------------------------------------------------
     AOT.MonoPInvokeCallbackAttribute
@@ -11229,8 +11229,6 @@ Summary:
         GetComponents(System.Type)
         GetComponentsInChildren(System.Type)
         GetComponentsInChildren(System.Type,System.Boolean)
-        GetComponentsInChildren<T>()
-        GetComponentsInChildren<T>(System.Boolean)
         GetComponentsInParent(System.Type)
         GetComponentsInParent(System.Type,System.Boolean)
         GetComponentsInParent<T>()
@@ -11641,7 +11639,6 @@ Summary:
         GetComponentsInChildren(System.Type)
         GetComponentsInChildren(System.Type,System.Boolean)
         GetComponentsInChildren<T>()
-        GetComponentsInChildren<T>(System.Boolean)
         GetComponentsInChildren<T>(System.Collections.Generic.List`1<T>)
         GetComponentsInParent(System.Type)
         GetComponentsInParent(System.Type,System.Boolean)

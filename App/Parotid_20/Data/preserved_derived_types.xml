@@ -1,9 +1,11 @@
 <linker>
 <assembly fullname="Assembly-CSharp">
+<type fullname="all_vis_on" preserve="all"/>
 <type fullname="move" preserve="all"/>
 <type fullname="resize" preserve="all"/>
 <type fullname="rotate" preserve="all"/>
 <type fullname="toggle_rotate" preserve="all"/>
+<type fullname="toggle_text" preserve="all"/>
 <type fullname="toggle_vis" preserve="all"/>
 </assembly>
 <assembly fullname="UnityEngine.UI">

@@ -224,6 +224,7 @@
     <Compile Include="Assets\Scripts\resize.cs" />
     <Compile Include="Assets\Scripts\rotate.cs" />
     <Compile Include="Assets\Scripts\toggle_rotate.cs" />
+    <Compile Include="Assets\Scripts\toggle_text.cs" />
     <Compile Include="Assets\Scripts\toggle_vis.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
