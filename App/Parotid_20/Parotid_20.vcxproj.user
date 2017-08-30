@@ -6,4 +6,10 @@
     <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
     <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <DebuggerFlavor>WindowsDeviceDebugger</DebuggerFlavor>
+    <WindowsAppEmulatorID>C0E5F7CA-3595-E167-7DFE-3D367F6E3B3E;HoloLens Emulator 10.0.14393.1358</WindowsAppEmulatorID>
+    <DebuggerType>Mixed</DebuggerType>
+    <DebuggerMachineName>192.168.1.77</DebuggerMachineName>
+  </PropertyGroup>
 </Project>
