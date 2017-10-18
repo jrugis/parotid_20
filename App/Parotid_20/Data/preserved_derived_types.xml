@@ -7,6 +7,7 @@
 <type fullname="toggle_rotate" preserve="all"/>
 <type fullname="toggle_text" preserve="all"/>
 <type fullname="toggle_vis" preserve="all"/>
+<type fullname="toggle_vis_all" preserve="all"/>
 </assembly>
 <assembly fullname="UnityEngine.UI">
 <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all"/>
